@@ -14,7 +14,6 @@ I am a Software Developer and IT Professional based in New Zealand with a backgr
 - **Web:** FastAPI, HTMX, Jinja2, Bootstrap 5, Tailwind CSS
 - **Data:** SQLModel, Pandas, Streamlit, Folium (GIS)
 - **IT Ops:** Jamf School, Apple School Manager, Microsoft, Google
-- **Specialties:** Legacy System Migration, PDF Generation (`fpdf2`), Project Management
 
 ### 📈 Current Projects
 *   **MS Access Migration:** Transforming a decades-old registry system into a high-performance web app.
