@@ -6,7 +6,9 @@ I am a Software Developer and IT Professional based in New Zealand with a backgr
 
 - 🔭 **Currently Migrating:** A 26-year-old MS Access shares registry to a modern stack: **FastAPI, SQLModel, HTMX, Bootstrap 5, and Jinja2**.
 - 🌱 **Learning:** Expanding my toolkit in GIS, spatial data analysis, and advanced visualisation.
-- 🤝 **Community:** Helping to organise and produce content for the **Python Learners Co-op** via [NZPUG](https://github.com/williamhamilton/NZPUG/).
+- ~🤝 **Community:** Helping to organise and produce content for the **Python Learners Co-op** (https://github.com/williamhamilton/NZPUG/).~
+- 🤝 **Community:** Helping to organise and attend as a mentor for the monthly **Python Help** gathering.
+- 🤝 **Community:** Committee member of Python New Zealand.
 - ⚡ **Fun Fact:** When I'm not fixing or maintaining something on my lifestyle block or tinkering with custom hardware, I'm out on the water practising sailing (and occasionally practising my "not drowning" skills).
 
 ### 🛠️ Tech Stack & Tools
@@ -18,7 +20,8 @@ I am a Software Developer and IT Professional based in New Zealand with a backgr
 ### 📈 Current Projects
 *   **MS Access Migration:** Transforming a decades-old registry system into a high-performance web app.
 *   **Rat Trapping Visualisation:** Turning regional trapping spreadsheets into interactive spatial maps using Folium and Streamlit.
-*   **NZPUG Python Learners Co-op:** Helping and/or facilitating weekly gatherings to help others master Python.
+*   ~**Python Learners Co-op:** Helping and/or facilitating weekly gatherings to help others (and myself) master Python.~
+*   **Python Help:** Helping and/or facilitating monthly gatherings to help others (and myself) master Python.
 
 ### 📬 Connect with Me
 - 📍 Wairarapa, New Zealand
